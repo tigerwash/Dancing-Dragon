@@ -1,2 +1,2 @@
 # Dancing-Dragon
-visual design developed by Python in Rhino 
+3D visual design based on autonomous agent systems
